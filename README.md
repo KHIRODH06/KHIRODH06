@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Your+Name+Here;Data+Science+%7C+Credit+Risk+%7C+BI;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%7C+Risk+Modeling" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Khirodh+Chandra+Mohapatra;Data+Science+%7C+Credit+Risk+%7C+BI;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%7C+Risk+Modeling" alt="Typing Header" />
 </div>
 
 ---
@@ -51,7 +51,7 @@ I'm a **passionate data professional** specializing in **credit risk analytics**
 
 ## 🚀 **Featured Projects**
 
-### 1. [Credit Risk Scorecard Model](https://github.com/yourusername)
+### 1. [Credit Risk Scorecard Model](https://github.com/KHIRODH06)
 **Tech:** Python, XGBoost, SHAP, SQL  
 **Impact:**
 - Achieved 92% AUC in default prediction
