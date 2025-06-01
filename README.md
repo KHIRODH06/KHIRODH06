@@ -65,26 +65,6 @@ I'm Khirodh Chandra Mohapatra, an **aspiring data scientist** with a solid backg
 - Automated credit risk reports using SQL and Python  
 - Ensured compliance with Basel and IFRS 9 norms
 
-# Sample Python snippet for XGBoost model training
-from xgboost import XGBClassifier
-from sklearn.metrics import roc_auc_score
-
-model = XGBClassifier()
-model.fit(X_train, y_train)
-probabilities = model.predict_proba(X_test)[:, 1]
-print(f"AUC Score: {roc_auc_score(y_test, probabilities):.2f}")
-
-# Sample DAX measure for NPA%
-NPA% = 
-VAR TotalExposure = SUM(Portfolio[Exposure])
-VAR NPAExposure = CALCULATE(SUM(Portfolio[Exposure]), Portfolio[Status] = "NPA")
-RETURN DIVIDE(NPAExposure, TotalExposure, 0)
-
-# SAS logistic regression example for PD modeling
-PROC LOGISTIC DATA=training_data;
-  MODEL default(EVENT='1') = income credit_score utilization;
-  SCORE DATA=test_data OUT=scored_data;
-RUN;
 
 ---
 
