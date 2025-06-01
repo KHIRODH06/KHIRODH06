@@ -1,17 +1,6 @@
-<div align="center" style="font-family: 'Fira Code', monospace;">
-
-  <h1 style="background: linear-gradient(90deg, #22D3F7, #3B82F6); -webkit-background-clip: text; color: transparent; font-weight: 900; font-size: 2.8em; margin-bottom: 0.2em;">
-    Khirodh Chandra Mohapatra
-  </h1>
-
-  <p style="font-size: 1.2em; color: #94A3B8; margin-top: 0;">
-    <span style="margin-right: 1.2em;">💼 Data Science | Credit Risk | BI</span> 
-    <span style="margin-right: 1.2em;">🐍 Python | SQL | Power BI | Tableau</span> 
-    <span>🤖 Machine Learning | Risk Modeling</span>
-  </p>
-
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=54E5FF&center=true&vCenter=true&width=435&lines=Khirodh+Chandra+Mohapatra;Data+Science+%7C+Credit+Risk+%7C+BI;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%7C+Risk+Modeling" alt="Typing Header" />
 </div>
-
 
 ---
 
