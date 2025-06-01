@@ -67,3 +67,25 @@ model = XGBClassifier()
 model.fit(X_train, y_train)
 probabilities = model.predict_proba(X_test)[:, 1]
 print(f"AUC Score: {roc_auc_score(y_test, probabilities):.2f}")
+
+// DAX measure for NPA%
+NPA% = 
+VAR TotalExposure = SUM(Portfolio[Exposure])
+VAR NPAExposure = CALCULATE(SUM(Portfolio[Exposure]), Portfolio[Status] = "NPA")
+RETURN DIVIDE(NPAExposure, TotalExposure, 0)
+
+/* SAS PD Calculation */
+PROC LOGISTIC DATA=training_data;
+  MODEL default(EVENT='1') = income credit_score utilization;
+  SCORE DATA=test_data OUT=scored_data;
+RUN;
+
+<div align="center">
+Your GitHub Stats
+Top Languages
+
+GitHub Streak
+
+</div>
+
+<p align="center"> <a href="https://www.linkedin.com/in/khirodh-mohapatra/"> <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"> </a> <a href="mailto:khirodhrocks1@gmail.com"> <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"> </a> <a href="https://kaggle.com/khirodh-mohapatra"> <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white&style=for-the-badge"> </a> <a href="https://github.com/KHIRODH06"> <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"> </a> </p>
