@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3F7&center=true&vCenter=true&width=435&lines=Khirodh+Chandra+Mohapatra;Data+Science+%7C+Credit+Risk+%7C+BI;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau;Machine+Learning+%7C+Risk+Modeling" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=700&color=1E40AF&center=true&vCenter=true&width=450&lines=Khirodh+Chandra+Mohapatra;Data+Scientist+%7C+Credit+Risk+Analyst;Python+%7C+SQL+%7C+Power+BI+%7C+Tableau" alt="Typing Header" />
 </div>
 
 ---
